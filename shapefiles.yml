@@ -1,15 +1,15 @@
 congress:
-  base_url: https://www2.census.gov/geo/tiger/TIGER2021/CD
+  base_url: https://www2.census.gov/geo/tiger/TIGER2021/CD/
   filenames:
     - tl_2021_us_cd116.zip
 
 states:
-  base_url: https://www2.census.gov/geo/tiger/TIGER2021/STATE
+  base_url: https://www2.census.gov/geo/tiger/TIGER2021/STATE/
   filenames:
     - tl_2021_us_state.zip
 
 state_legislative_districts_lower:
-  base_url: https://www2.census.gov/geo/tiger/TIGER2021/SLDL
+  base_url: https://www2.census.gov/geo/tiger/TIGER2021/SLDL/
   filenames:
     - tl_2021_01_sldl.zip
     - tl_2021_02_sldl.zip
@@ -63,7 +63,7 @@ state_legislative_districts_lower:
     - tl_2021_72_sldl.zip
 
 state_legislative_districts_upper:
-  base_url: https://www2.census.gov/geo/tiger/TIGER2021/SLDU
+  base_url: https://www2.census.gov/geo/tiger/TIGER2021/SLDU/
   filenames:
     - tl_2021_01_sldu.zip
     - tl_2021_02_sldu.zip
